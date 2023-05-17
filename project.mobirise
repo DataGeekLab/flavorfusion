@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "award.html",
+    "currentPage": "our_supplies.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -92,7 +92,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/artboard%201-680x355.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/social%20media%20sharing-680x355.jpg"
       },
       "components": [
         {
@@ -1105,7 +1105,8 @@
       "settings": {
         "title": "About Us | Flavor Fusion",
         "order": "3",
-        "meta_descr": "Our premium quality flavors and fragrances are crafted to perfection to elevate your products. From food and beverage to personal care and beyond, we have a wide variety of options to suit your needs."
+        "meta_descr": "Our premium quality flavors and fragrances are crafted to perfection to elevate your products. From food and beverage to personal care and beyond, we have a wide variety of options to suit your needs.",
+        "meta_image": "@PROJECT_PATH@/assets/images/social%20media%20sharing-680x355.jpg"
       },
       "components": [
         {
@@ -1993,7 +1994,8 @@
         "title": "Contact Us",
         "order": "6",
         "socialSharingUrl": "",
-        "meta_descr": "Our premium quality flavors and fragrances are crafted to perfection to elevate your products. From food and beverage to personal care and beyond, we have a wide variety of options to suit your needs."
+        "meta_descr": "Our premium quality flavors and fragrances are crafted to perfection to elevate your products. From food and beverage to personal care and beyond, we have a wide variety of options to suit your needs.",
+        "meta_image": "@PROJECT_PATH@/assets/images/social%20media%20sharing-680x355.jpg"
       },
       "components": [
         {
@@ -2630,7 +2632,8 @@
       "settings": {
         "title": "Our Supplies | Flavor Fusion",
         "order": "4",
-        "meta_descr": "Our premium quality flavors and fragrances are crafted to perfection to elevate your products. From food and beverage to personal care and beyond, we have a wide variety of options to suit your needs."
+        "meta_descr": "Our premium quality flavors and fragrances are crafted to perfection to elevate your products. From food and beverage to personal care and beyond, we have a wide variety of options to suit your needs.",
+        "meta_image": "@PROJECT_PATH@/assets/images/social%20media%20sharing-680x355.jpg"
       },
       "components": [
         {
@@ -3741,7 +3744,8 @@
       "settings": {
         "title": "Basil",
         "order": "5",
-        "meta_descr": "Our premium quality flavors and fragrances are crafted to perfection to elevate your products. From food and beverage to personal care and beyond, we have a wide variety of options to suit your needs."
+        "meta_descr": "Our premium quality flavors and fragrances are crafted to perfection to elevate your products. From food and beverage to personal care and beyond, we have a wide variety of options to suit your needs.",
+        "meta_image": "@PROJECT_PATH@/assets/images/social%20media%20sharing-680x355.jpg"
       },
       "components": [
         {
@@ -4373,7 +4377,8 @@
       "settings": {
         "title": "News | Flavor Fusion",
         "order": "1",
-        "meta_descr": "Our premium quality flavors and fragrances are crafted to perfection to elevate your products. From food and beverage to personal care and beyond, we have a wide variety of options to suit your needs."
+        "meta_descr": "Our premium quality flavors and fragrances are crafted to perfection to elevate your products. From food and beverage to personal care and beyond, we have a wide variety of options to suit your needs.",
+        "meta_image": "@PROJECT_PATH@/assets/images/social%20media%20sharing-680x355.jpg"
       },
       "components": [
         {
@@ -5212,7 +5217,8 @@
       "settings": {
         "title": "Flavor Fusion Wins Top Industry Award for Spice Innovation",
         "order": "2",
-        "meta_descr": "We are thrilled to announce that Flavor Fusion has been honored with a prestigious industry award for our outstanding achievements in spice innovation."
+        "meta_descr": "We are thrilled to announce that Flavor Fusion has been honored with a prestigious industry award for our outstanding achievements in spice innovation.",
+        "meta_image": "@PROJECT_PATH@/assets/images/social%20media%20sharing%202-680x355.jpg"
       },
       "components": [
         {
